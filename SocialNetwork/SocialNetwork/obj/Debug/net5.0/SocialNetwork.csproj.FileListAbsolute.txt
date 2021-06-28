@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.exe
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.deps.json
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.runtimeconfig.json
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.runtimeconfig.dev.json
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.dll
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\bin\Debug\net5.0\ref\SocialNetwork.dll
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.pdb
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.AssemblyInfo.cs
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.dll
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\ref\SocialNetwork.dll
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.pdb
+C:\Users\user\source\repos\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.genruntimeconfig.cache
